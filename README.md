@@ -32,3 +32,36 @@ li = Line(coordinate1,coordinate2)
 
 1.6
 
+
+# PROMBLEM 2
+
+Fill in the class
+
+class Cylinder(object):
+
+    
+
+    def __init__(self,height=1,radius=1):
+        pass
+
+        
+
+    def volume(self):
+        pass
+
+    
+
+    def surface_area(self):
+        pass
+
+# EXAMPLE OUTPUT
+
+c = Cylinder(2,3)
+
+    c.volume()
+56.52
+
+    c.surface_area()
+94.2
+
+
